@@ -81,10 +81,12 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+
 .container {
-  width: 940px;
-  margin: auto;
+    width: 940px;
+    margin: auto;
 }
-head div.container {
+
+header div.container {
     display: flex;
 }
