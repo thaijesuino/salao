@@ -90,3 +90,11 @@ nav a {
 header div.container {
     display: flex;
 }
+
+.principal img{
+    width: 100%;
+}
+
+.imagembeneficios{
+    width: 40%;
+}
