@@ -98,3 +98,39 @@ header div.container {
 .imagembeneficios{
     width: 40%;
 }
+
+produtos {
+    margin: top 50px;
+    padding: 0;
+}
+produtos li{
+  display: inline-block;
+  text-align: center;
+  width: 28%;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+produtos h2 {
+  font-size: 25px;
+  font-weight: bold;
+}
+produto descricao {
+    font-size: 18px;
+}
+produto preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+produtos li:hover{
+    border: 2px solid white;
+}
+header ul li a :hover {
+    color: blueviolet;
+}
+ 
+.produtos li img {
+    max-width: 250px;
+}
